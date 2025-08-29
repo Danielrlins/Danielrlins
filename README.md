@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Daniel!
 
-<!--
-**Danielrlins/Danielrlins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalhando em projetos de dados e Python
+- 🌱 Estudando GitHub, DevOps e Banco de Dados
+- 💬 Pergunte-me sobre Python, SQL e Git
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/daniel-rozendo-0146292b9/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que uso
+- Python 🐍
+- Git & GitHub
+- SQL (PostgreSQL)
+
+---
+
